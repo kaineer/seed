@@ -1,0 +1,5 @@
+directory: "devel/kaineer/projname"
+repo: "git:github.com/projname.git"
+tags:
+  - git
+  - node

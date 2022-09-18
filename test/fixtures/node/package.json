@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "one": "hello",
+    "two": "good-bye"
+  }
+}

@@ -1,0 +1,6 @@
+git:
+  actions:
+    clone: "git clone ${repo} ${directory}"
+
+node:
+  collect: "cat package.json | yq e '.scripts | keys | .[]' -"
